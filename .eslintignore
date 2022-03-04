@@ -1,0 +1,8 @@
+**/node_modules/*
+**/out/*
+**/.next/*
+package.json
+*.config.js
+.eslintrc.js
+# renovate.json // (あとで追加するファイル)
+tsconfig.json
